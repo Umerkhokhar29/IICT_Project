@@ -3,14 +3,14 @@
 <head>
 	
 	<title>About Us</title>
-	<link rel="stylesheet" type="text/css" href="About us.css">
-	<link rel="stylesheet" href="cssproject.css">
+	<link rel="stylesheet" type="text/css" href="..\CSS\About us.css">
+	<link rel="stylesheet" href="..\CSS\cssproject.css">
 </head>
 <body>
 
 	<nav class="navbar background">
 			<ul class="nav-list">
-				<div class="logo"><img src="audilogo.png" alt="logo"></div>
+				<div class="logo"><img src="..\images\audilogo.png" alt="logo"></div>
 				<li><a href="index.html">Home</a></li>
 				<li><a href="services.html">Services</a></li>
 				<li><a href="About Us.html">About Us</a></li>
@@ -30,9 +30,9 @@
 
 	<div id="inner1">
 		
-			<div class="img1"><img src="ovii.jpeg" width="200px" height="200px"><br>OWAIS AHMED<br>(CEO)</div>
-			<div class="img2"><img src="me.jpg" width="200px" height="200px"><br>MUHAMMAD UMER<br>(MANAGER)</div>
-			<div class="img3"><img src="hammad.jpeg" width="200px" height="200px"><br>HAMMAD BAIG<br>(SERVICE PROVIDER)</div>
+			<div class="img1"><img src="..\images\ovii.jpeg" width="200px" height="200px"><br>OWAIS AHMED<br>(CEO)</div>
+			<div class="img2"><img src="..\images\me.jpg" width="200px" height="200px"><br>MUHAMMAD UMER<br>(MANAGER)</div>
+			<div class="img3"><img src="..\images\hammad.jpeg" width="200px" height="200px"><br>HAMMAD BAIG<br>(SERVICE PROVIDER)</div>
 	</div>
 
 	<div id="inner2">
@@ -41,9 +41,9 @@
 		<p class="quote">"If you want to know anything about thrill,<br>just drive an Audi"<br>~who knows.</p>
 	</div>
 		<div id="web">
-				<div class="logo1"><a href="https://www.facebook.com"><img src="fb.jfif" width="40px" height="40px"></a></div>
-				<div class="logo2"><a href="https://twitter.com/home"><img src="tw.jfif" width="40px" height="40px"></a></div>
-				<div class="logo3"><a href="https://www.instagram.com/"><img src="insta.jfif" width="40px" height="40px"></a> </div>
+				<div class="logo1"><a href="https://www.facebook.com"><img src="..\images\fb.jfif" width="40px" height="40px"></a></div>
+				<div class="logo2"><a href="https://twitter.com/home"><img src="..\images\tw.jfif" width="40px" height="40px"></a></div>
+				<div class="logo3"><a href="https://www.instagram.com/"><img src="..\images\insta.jfif" width="40px" height="40px"></a> </div>
 			</div>
 		</div>
 	</div>

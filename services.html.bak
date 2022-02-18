@@ -3,14 +3,14 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="cssproject.css">
+	<link rel="stylesheet" type="text/css" href="..\CSS\cssproject.css">
 	<title>services</title>
 </head>
 <body>
 
 	<nav class="navbar background">
 			<ul class="nav-list">
-				<div class="logo"><img src="audilogo.png" alt="logo"></div>
+				<div class="logo"><img src="..\images\audilogo.png" alt="logo"></div>
 				<li><a href="index.html">Home</a></li>
 				<li><a href="services.html">Services</a></li>
 				<li><a href="About Us.html">About Us</a></li>
@@ -28,11 +28,11 @@
 
 	<div id="pkg">
 	<div id="pkg1">
-		<img src="workshop.jfif" height="250" width="280">
+		<img src="..\images\workshop.jfif" height="250" width="280">
 		<h2><a href="dpkg.html">Workshop</a></h2>
 	</div>
 	<div id="pkg2">
-			<img src="oilchange.jpg" height="250" width="280">
+			<img src="..\images\oilchange.jpg" height="250" width="280">
 			<h2><a href="spkg.html">Oil Change</a></h2>
 	</div>
 
@@ -42,11 +42,11 @@
 
 <div id="pkgt">
 	<div id="pkg3">
-		<img src="carmain.jpg" height="250" width="280">
+		<img src="..\images\carmain.jpg" height="250" width="280">
 		<h2><a href="ipkg.html">Car Maintenance</a></h2>
 	</div>
 	<div id="pkg4">
-			<img src="mil.jpg" height="250" width="280">
+			<img src="..\images\mil.jpg" height="250" width="280">
 			<h2><a href="npkg.html">Mileage</a></h2>
 	</div>
 

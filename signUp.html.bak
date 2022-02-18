@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="signUp.css">
+	<link rel="stylesheet" type="text/css" href="..\CSS\signUp.css">
 	<title>Sign Up form</title>
 </head>
 <body>	

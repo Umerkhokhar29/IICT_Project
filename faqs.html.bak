@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="faqs.css">
+	<link rel="stylesheet" type="text/css" href="..\CSS\faqs.css">
 	<script type="text/javascript">
 		function toggleElement(id)
 {
