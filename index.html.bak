@@ -2,13 +2,13 @@
 <html>
 	<head>
 
-		<link rel="stylesheet" href="cssproject.css">
+		<link rel="stylesheet" href="..\CSS\cssproject.css">
 		<title>HOU MOTORS</title>
 	</head>
 	<body>
 		<nav class="navbar background">
 			<ul class="nav-list">
-				<div class="logo"><img src="audilogo.png" alt="logo"></div>
+				<div class="logo"><img src="..\images\audilogo.png" alt="logo"></div>
 				<li><a href="index.html">Home</a></li>
 				<li><a href="services.html" target="_blank">Services</a></li>
 				<li><a href="About Us.html" target="_blank">About Us</a></li>
@@ -34,7 +34,7 @@
 					</div>
 				</div>
 				<div class="secondhalf">
-						<img src="logo2.jpg" alt="car image">
+						<img src="..\images\logo2.jpg" alt="car image">
 				</div>
 			</div>
 		</section>
@@ -45,7 +45,7 @@
 					<p class="text-small">The shores of Tai Hu, China’s third largest freshwater lake, are bustling with activity. Well over six million people live and work in the up-and-coming metropolis of Wuxi, between an 88-meter-high Buddha statue, historic buildings, and numerous fine-dining restaurants. Among experts, however, Wuxi is also a synonym for IoT – the Internet of Things – and a model for smart cities. This is where Audi China is testing connected driving in conjunction with connected infrastructure. A few weeks ago, the brand with the four rings went one step further and sent a converted Audi Q8 out onto the road. This marked the world’s first demonstration of autonomous driving on public roads with V2X communication.</p>
 			 </div>
 			 <div class="thumbnail">
-					<img src="new.jpeg" alt="laptopimage" class="imgfluid">
+					<img src="..\images\new.jpeg" alt="laptopimage" class="imgfluid">
 			 </div>
 		</section>
 		<section class="section section-left">
@@ -54,7 +54,7 @@
 					<p class="text-small">How did the use of electric light develop? From the first electrically lit world’s fair in 1878 to the Audi e-tron Sportback concept that uses lighting to communicate with its environment.</p>
 			 </div>
 			 <div class="thumbnail">
-					<img src="light.jpg" alt="laptopimage" class="imgfluid">
+					<img src="..\images\light.jpg" alt="laptopimage" class="imgfluid">
 			 </div>
 		</section>
 		<section class="section">
@@ -63,7 +63,7 @@
 					<p class="text-small">Performance is an integral part of Audi’s progressive attitude. It is deeply rooted in our DNA. Perfectionism in the development of high-performance vehicles and a responsible handling of performance, power and speed also play a significant role. We set no limits on precision, efficiency, superior power and elegant design. For us, the will to constantly produce better performance and to drive developments forward is paramount.</p>
 			 </div>
 			 <div class="thumbnail">
-					<img src="front.jpg" alt="laptopimage" class="imgfluid">
+					<img src="..\images\front.jpg" alt="laptopimage" class="imgfluid">
 			 </div>
 		</section>
 		<hr>
@@ -71,7 +71,7 @@
 		<div class="contact">
 			<h2 class="company">Company's <br>View</h2>
 			<div class="form">
-				<img class="image1" src="company.jpg">
+				<img class="image1" src="..\images\company.jpg">
 			</div>
 		</div>
 		
