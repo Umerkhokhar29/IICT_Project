@@ -1,0 +1,134 @@
+#outer{
+	border: black solid 1px;
+	float: left;
+	width: 100%;
+	height: 780px;
+	background-image:url('back1.jpg');
+	background-size: cover;
+	background-position: center;
+	
+}
+
+#inner1{
+	width: 720px;
+	height: 700px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 40px;
+	float: left;
+
+}
+
+#inner2{
+	width: 720px;
+	height: 700px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-right: 40px;
+	float: right;
+	
+}
+
+#text1{
+	padding-top: 10px;
+	text-align: center;
+	color: floralwhite;
+	font-size: 50px;
+	margin-top: 15px;
+	font-style: italic;
+
+
+}
+
+.img1{	
+	width: 250px;
+	height: 250px;
+	float: left;
+	margin-left: 120px;
+	text-align: center;
+	font-style: italic;
+	color: ghostwhite;
+
+}
+.txt
+{
+	display: inline-flex;
+	padding-top: 70px;
+	font-style: italic;
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: 3000;
+}
+.quote
+{
+	color: #BDC3C7;
+	padding-top: 33px;
+	font-size: 20px;
+	font-stretch: expanded;
+}
+.img2{
+	width: 250px;
+	height: 250px;
+	float: right;
+	margin-right: 95px;
+	text-align: center;
+	font-style: italic;
+	color: ghostwhite;
+
+}
+
+.img3{
+	width: 250px;
+	height: 250px;
+	float: left;
+	margin-left: 235px;
+	margin-top: 30px;
+	text-align: center;
+	font-style: italic;
+	color: ghostwhite;
+
+}
+
+.text2{
+	width: 100%;
+	height: 450px;
+	text-align: center;
+	font-style: italic;
+	color: ghostwhite;
+	margin-top: 110px;
+
+}
+
+#web{
+
+	width: 100%;
+	height: 70px;
+}
+
+.logo1{
+	width: 30px;
+	height: 30px;
+	float: left;
+	margin-left: 200px;
+	margin-top: -20px;
+
+}
+
+.logo2{
+	width: 5px;
+	height: 5px;
+	float: left;
+	margin-left: 120px;
+    margin-top: -20px;
+	
+}
+
+.logo3{
+	width: 5px;
+	height: 5px;
+	float: right;
+	/*display: flex;*/
+	margin-right: 200px;
+	margin-top: -20px;
+
+}

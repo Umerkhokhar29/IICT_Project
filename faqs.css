@@ -1,0 +1,66 @@
+#container
+{
+/*	background-color: blue;*/
+	background-color: grey;
+	width: 100%;
+	height: auto;
+	background-size: cover;
+	background-position: center;
+}
+h1
+{
+	font-style: italic;
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+#mini
+{
+	justify-content: flex-start;
+	border: 1px solid black;
+	width: 70%;
+	height: 999px;
+	border-radius: 15px;
+	perspective: 1000px;
+	/*display: flex;
+	align-items: center;
+	justify-content: center;*/
+
+}
+#letsee
+{
+	margin-top: 40px;
+	outline-color: grey;
+	outline-style: groove;
+	width: auto;
+	height: auto;
+	/*border: 1px solid ;*/
+}
+#a1
+{
+	margin-top: 10px;
+	outline-color: grey;
+	outline-style: none;
+	width: auto;
+	height: auto;
+	/*border: 1px  solid;*/
+}
+#a2
+{
+	margin-top: 10px;
+	outline-color: grey;
+	outline-style: groove;
+	width: auto;
+	height: auto;
+	border: 1px black solid;
+}
+h2
+{
+	color: black;
+	font-size: 30px;
+}
+span
+{
+	color: black;
+	font-size: 25px;
+}
