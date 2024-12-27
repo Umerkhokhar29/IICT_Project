@@ -1,3 +1,3 @@
 # IICT_Project
 <br>
-Authoer : Muhammad Umer
+Author Name : Muhammad Umer
